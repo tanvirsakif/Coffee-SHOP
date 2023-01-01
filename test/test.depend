@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1672555745 source:d:\program\myproject\test\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"SPLASH.h"
+	"LOGIN.h"
+
+1672555745 d:\program\myproject\test\splash.h
+
+1672555745 d:\program\myproject\test\login.h
+
